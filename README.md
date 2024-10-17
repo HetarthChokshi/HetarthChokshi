@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm a third-year Computer Science student passionate about technology and innovation. I'm a quick learner who thrives on exploring new tools and technologies. Whether it's developing software, contributing to open-source projects, or working on personal projects, I love diving into challenges that push my skills further.<br><br>I’m always on the lookout for new opportunities to grow, collaborate, and make meaningful contributions in the tech world. Let's connect and build something amazing together!<br><br>📫 How to reach me<br>Email: hetarth140804@gmail.com<br> 
+Hi there! 👋 I'm a third-year Computer Science student passionate about technology and innovation. I'm a quick learner who thrives on exploring new tools and technologies. Whether it's developing software,  or working on personal projects, I love diving into challenges that push my skills further.<br><br>I’m always on the lookout for new opportunities to grow, collaborate, and make meaningful contributions in the tech world. Let's connect and build something amazing together!<br><br>📫 How to reach me<br>Email: hetarth140804@gmail.com<br> 
 
 
 ## 🌐 Socials:
