@@ -12,8 +12,7 @@ Hi there! 👋 I'm Hetarth Chokshi a third-year Computer Science student passion
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HetarthChokshi&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HetarthChokshi&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HetarthChokshi&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
